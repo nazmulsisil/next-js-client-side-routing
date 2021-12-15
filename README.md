@@ -1,8 +1,6 @@
 # Deployed
 
-url: https://typing-mentor-next.vercel.app/
-
-vercel (require login): https://vercel.com/nazmulsisil/typing-mentor-next
+url: https://next-js-client-side-routing.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
