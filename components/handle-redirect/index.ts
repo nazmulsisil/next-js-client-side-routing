@@ -1,0 +1,1 @@
+export { HandleRedirect } from './HandleRedirect';
